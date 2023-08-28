@@ -1,3 +1,9 @@
+### Links
+
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-12/]
+- Live Site URL: [https://64ecc8df667d5737a54af8f5--inspiring-yeot-a7fa5c.netlify.app/]
+  
+
 # Frontend Mentor - Shortly URL shortening API Challenge solution
 
 This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -24,12 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+1st image - [https://drive.google.com/file/d/1N3WE03DaHuqQ9UsjYvR1c-B0QecFYj5O/view?usp=sharing]
 
 ### Built with
 
