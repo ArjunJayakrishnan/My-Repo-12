@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+.navbarDiv {
+	color: hsl(257, 7%, 63%);
+	font-weight: 700;
+	font-size: 1.8rem;
+	width: 80%;
+	height: 6.4rem;
+	margin: 0 auto;
+	padding: 3.2rem 0 0 0;
+	/* flex */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navbarDiv a {
+	text-decoration: none;
+	color: hsl(257, 7%, 63%);
+}
+.navbarDiv a:hover {
+	color: black;
+}
+
+.imageLogo {
+	height: 3.3rem;
+	width: 12.1rem;
+}
+
+.sectionLinksDiv {
+	display: flex;
+	align-items: center;
+	gap: 4.8rem;
+}
+
+.sectionLinksNav {
+	display: flex;
+	align-items: center;
+	gap: 3.2rem;
+}
+
+.accountCreationNav {
+	display: flex;
+	align-items: center;
+	gap: 4.8rem;
+}
+
+@media (max-width: 10000px) {
+	.ionIconMenuDiv {
+		display: none;
+	}
+	.ionIconCloseDiv {
+		display: none;
+	}
+}
+@media (max-width: 1175px) {
+	.navbarDiv {
+		width: 90%;
+	}
+	.ionIconMenuDiv {
+		display: none;
+	}
+	.ionIconCloseDiv {
+		display: none;
+	}
+}
+@media (max-width: 580px) {
+	.sectionLinksDiv {
+		gap: 3.6rem;
+	}
+
+	.sectionLinksNav {
+		gap: 2.4rem;
+	}
+
+	.accountCreationNav {
+		gap: 3.6rem;
+	}
+}
+@media (max-width: 499px) {
+	.clickedMenu {
+		margin-top: 3.2rem;
+		height: 40vh;
+		/* flex */
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-evenly;
+		gap: 1.6rem;
+	}
+	.clickedMenu p {
+		font-weight: 700;
+		font-size: 1.8rem;
+		color: hsl(257, 7%, 63%);
+	}
+	.navBarLinks {
+		font-weight: 700;
+		font-size: 1.8rem;
+		/* flex */
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1.6rem;
+	}
+	.navBarLinks a {
+		text-decoration: none;
+		color: hsl(257, 7%, 63%);
+	}
+	.navBarLinks a:hover {
+		color: black;
+	}
+
+	.navbarDiv ion-icon {
+		color: gray;
+		font-size: 4.8rem;
+	}
+	.ionIconMenuDiv {
+		display: block;
+	}
+	.ionIconCloseDiv {
+		display: block;
+	}
+}
