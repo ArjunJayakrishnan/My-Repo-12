@@ -1,7 +1,7 @@
 ### Links
 
+- Live Site URL: [https://64f1c1c94fc8aa565ce7ef93--phenomenal-phoenix-40b572.netlify.app/]
 - Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-12/]
-- Live Site URL: [https://64ecc8df667d5737a54af8f5--inspiring-yeot-a7fa5c.netlify.app/]
   
 
 # Frontend Mentor - Shortly URL shortening API Challenge solution
